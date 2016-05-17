@@ -2,7 +2,7 @@
 # Synopsis   : Windows GUI automation utilities
 # Programmer : Simon Brunning - simon@brunningonline.net
 # Date       : 25 June 2003
-# Version    : 1.0 pre-alpha 2
+# Version    : 1.0 pre-alpha 2 test  fdfdfdfdfesdfesd
 # Copyright  : Released to the public domain. Provided as-is, with no warranty.
 # Notes      : Requires Python 2.3, win32all and ctypes 
 '''Windows GUI automation utilities.
